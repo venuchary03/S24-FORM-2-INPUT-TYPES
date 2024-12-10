@@ -1,0 +1,17 @@
+form{
+    display: inline-block;
+    padding: 20px;
+    background-color:lightslategrey;
+    margin: 10px;
+}
+
+form label{
+    display: inline-block;
+    width: 200px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color:blue;
+}
+
+ form div{
+    margin: 15px;
+}
